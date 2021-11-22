@@ -1,5 +1,5 @@
 # Restaurants_Geopandas
-Analysis of USA Fast Food Restaurnats with Geopandas.
+Analysis of USA Fast Food Restaurnats with Geopandas.  
 Dataset: FastFoodRestaurants.csv from https://www.kaggle.com/datafiniti/fast-food-restaurants
 
 Tasks:
